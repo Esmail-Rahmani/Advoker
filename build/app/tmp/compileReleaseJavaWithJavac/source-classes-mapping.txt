@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+io/flutter/plugins/Application.java
+ io.flutter.plugins.pushNotification.Application
+com/example/ylc/BuildConfig.java
+ com.example.ylc.BuildConfig

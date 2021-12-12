@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Esmail\\AndroidStudioProjects\\AppNode-master\\build\\razorpay_flutter\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Esmail\\.gradle\\caches\\transforms-2\\files-2.1\\a39bd69dbdc35c2b8c3ca5754e8777a9\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Esmail\\AndroidStudioProjects\\AppNode-master\\build\\razorpay_flutter\\intermediates\\res\\merged\\release\\drawable\\rzp_loader_circle.xml",
+        "source": "C:\\Users\\Esmail\\.gradle\\caches\\transforms-2\\files-2.1\\9e68e5af49961c9c95f0505a7947461b\\jetified-checkout-1.5.4\\res\\drawable\\rzp_loader_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Esmail\\AndroidStudioProjects\\AppNode-master\\build\\razorpay_flutter\\intermediates\\res\\merged\\release\\drawable\\rzp_green_button.xml",
+        "source": "C:\\Users\\Esmail\\.gradle\\caches\\transforms-2\\files-2.1\\9e68e5af49961c9c95f0505a7947461b\\jetified-checkout-1.5.4\\res\\drawable\\rzp_green_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Esmail\\AndroidStudioProjects\\AppNode-master\\build\\razorpay_flutter\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Esmail\\.gradle\\caches\\transforms-2\\files-2.1\\a39bd69dbdc35c2b8c3ca5754e8777a9\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Esmail\\AndroidStudioProjects\\AppNode-master\\build\\razorpay_flutter\\intermediates\\res\\merged\\release\\drawable\\rzp_border.xml",
+        "source": "C:\\Users\\Esmail\\.gradle\\caches\\transforms-2\\files-2.1\\9e68e5af49961c9c95f0505a7947461b\\jetified-checkout-1.5.4\\res\\drawable\\rzp_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Esmail\\AndroidStudioProjects\\AppNode-master\\build\\razorpay_flutter\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Esmail\\.gradle\\caches\\transforms-2\\files-2.1\\a39bd69dbdc35c2b8c3ca5754e8777a9\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Esmail\\AndroidStudioProjects\\AppNode-master\\build\\razorpay_flutter\\intermediates\\res\\merged\\release\\drawable\\rzp_white_border_black_bg.xml",
+        "source": "C:\\Users\\Esmail\\.gradle\\caches\\transforms-2\\files-2.1\\9e68e5af49961c9c95f0505a7947461b\\jetified-checkout-1.5.4\\res\\drawable\\rzp_white_border_black_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Esmail\\AndroidStudioProjects\\AppNode-master\\build\\razorpay_flutter\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Esmail\\.gradle\\caches\\transforms-2\\files-2.1\\a39bd69dbdc35c2b8c3ca5754e8777a9\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Esmail\\AndroidStudioProjects\\AppNode-master\\build\\razorpay_flutter\\intermediates\\res\\merged\\release\\drawable\\rzp_secured_by_bg.xml",
+        "source": "C:\\Users\\Esmail\\.gradle\\caches\\transforms-2\\files-2.1\\9e68e5af49961c9c95f0505a7947461b\\jetified-checkout-1.5.4\\res\\drawable\\rzp_secured_by_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Esmail\\AndroidStudioProjects\\AppNode-master\\build\\razorpay_flutter\\intermediates\\res\\merged\\release\\drawable\\rzp_poweredby.png",
+        "source": "C:\\Users\\Esmail\\.gradle\\caches\\transforms-2\\files-2.1\\9e68e5af49961c9c95f0505a7947461b\\jetified-checkout-1.5.4\\res\\drawable\\rzp_poweredby.png"
+    },
+    {
+        "merged": "C:\\Users\\Esmail\\AndroidStudioProjects\\AppNode-master\\build\\razorpay_flutter\\intermediates\\res\\merged\\release\\drawable\\rzp_border_bottom.xml",
+        "source": "C:\\Users\\Esmail\\.gradle\\caches\\transforms-2\\files-2.1\\9e68e5af49961c9c95f0505a7947461b\\jetified-checkout-1.5.4\\res\\drawable\\rzp_border_bottom.xml"
+    }
+]

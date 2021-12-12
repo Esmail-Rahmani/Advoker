@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Esmail\\AndroidStudioProjects\\AppNode-master\\build\\flutter_login_facebook\\intermediates\\res\\merged\\release\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Esmail\\.gradle\\caches\\transforms-2\\files-2.1\\54acf5231ef3757431c52e5992b8f458\\appcompat-1.1.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Esmail\\AndroidStudioProjects\\AppNode-master\\build\\flutter_login_facebook\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Esmail\\.gradle\\caches\\transforms-2\\files-2.1\\54acf5231ef3757431c52e5992b8f458\\appcompat-1.1.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

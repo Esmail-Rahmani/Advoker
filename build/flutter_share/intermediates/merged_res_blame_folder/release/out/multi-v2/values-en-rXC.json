@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Esmail\\AndroidStudioProjects\\AppNode-master\\build\\flutter_share\\intermediates\\res\\merged\\release\\values-en-rXC\\values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Esmail\\.gradle\\caches\\transforms-2\\files-2.1\\fcac6095884109b5ae4f9ef644195f9e\\core-1.3.2\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Esmail\\AndroidStudioProjects\\AppNode-master\\build\\flutter_share\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Esmail\\.gradle\\caches\\transforms-2\\files-2.1\\fcac6095884109b5ae4f9ef644195f9e\\core-1.3.2\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    }
+                }
+            ]
+        }
+    ]
+}

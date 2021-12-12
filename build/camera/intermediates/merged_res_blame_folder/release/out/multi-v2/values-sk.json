@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Esmail\\AndroidStudioProjects\\AppNode-master\\build\\camera\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sk\\values-sk.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Esmail\\.gradle\\caches\\transforms-2\\files-2.1\\a39bd69dbdc35c2b8c3ca5754e8777a9\\core-1.1.0\\res\\values-sk\\values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Esmail\\AndroidStudioProjects\\AppNode-master\\build\\camera\\intermediates\\res\\merged\\release\\values-sk\\values-sk.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Esmail\\.gradle\\caches\\transforms-2\\files-2.1\\a39bd69dbdc35c2b8c3ca5754e8777a9\\core-1.1.0\\res\\values-sk\\values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
